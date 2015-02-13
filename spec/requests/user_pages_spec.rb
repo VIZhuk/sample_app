@@ -27,7 +27,7 @@ describe "UserPages" do
     describe "with valid information" do
       before do
         fill_in "Name", with: "Example User"
-        fill_in "Email", with: "user@example.com"
+        fill_in "Email", with: "alucarD@ua.fm"
         fill_in "Password", with: "test123"
         fill_in "Confirmation", with: "test123"
       end
